@@ -191,7 +191,3 @@ elif menu == 3:
     print('Gracias por contactar con el banco')
 else:
     print('Opción inválida')
-
-
-
-

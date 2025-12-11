@@ -1,21 +1,3 @@
-# =========================================================
-# Operadores lógicos
-# =========================================================
-
-# not → invierte un valor booleano
-a = True
-not a   # False
-
-# not in → verifica que un elemento NO esté en una secuencia
-"banana" not in ["manzana", "pera"]   # True
-"a" not in "hola"                     # False
-
-
-
-
-
-
-
 # ============================
 #        OPERADORES LÓGICOS
 # ============================
@@ -60,6 +42,10 @@ not False  # True
 # Ejemplo:
 lloviendo = False
 not lloviendo   # True → significa "no está lloviendo"
+
+# not in → verifica que un elemento NO esté en una secuencia
+"banana" not in ["manzana", "pera"]   # True
+"a" not in "hola"                     # False
 
 # ----------------------------
 #   COMBINACIÓN DE OPERADORES
