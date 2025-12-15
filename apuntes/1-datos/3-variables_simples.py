@@ -57,3 +57,11 @@ mensaje = f"Hola {nombre}, ¿cómo estás?"
 
 edad = 21
 mensaje = f"Tenés {edad} años"
+
+# dir te dice todo lo que podes hacer con un dato
+
+dataso = dir(17)
+
+print(dataso)
+
+
